@@ -17,6 +17,6 @@ Hello I'm a brazilian studing to become a Front-End developer since 2022. Civil 
  
 <hr />
 
-<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=MinoruMatsuo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=MinoruMatsuo&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
 <hr />
-<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinoruMatsuo&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinoruMatsuo&layout=compact&langs_count=7&theme=ocean_dark"/>
